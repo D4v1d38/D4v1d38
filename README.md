@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @D4v1d38
 - 👀 I’m interested in web development, ice-hockey, and more
-- 🌱 I’m currently learning html, css, javascript, php, mysql, bootsrtap
+- 🌱 I’m currently learning html, css, javascript, php, mysql, bootstrap,vuejs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : by email
 
